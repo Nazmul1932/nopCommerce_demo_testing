@@ -1,0 +1,596 @@
+2022-02-06 11:07:20,360 - WDM - INFO - 
+
+2022-02-06 11:07:20,360 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 11:07:20,374 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 11:07:20,374 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 11:07:20,669 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 11:07:21,877 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 11:07:21,877 - root - INFO - ****Started Home page title test ****
+2022-02-06 11:07:21,877 - root - INFO - ****Opening URL****
+2022-02-06 11:07:23,559 - root - INFO - **** Home page title test passed ****
+2022-02-06 11:07:23,610 - WDM - INFO - 
+
+2022-02-06 11:07:23,611 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 11:07:23,650 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 11:07:23,650 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 11:07:23,824 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 11:07:24,857 - root - INFO - Testing login
+2022-02-06 11:07:31,292 - root - INFO - Testing login is passed
+2022-02-06 11:08:29,180 - WDM - INFO - 
+
+2022-02-06 11:08:29,180 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 11:08:29,197 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 11:08:29,197 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 11:08:29,372 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 11:08:30,482 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 11:08:30,482 - root - INFO - ****Started Home page title test ****
+2022-02-06 11:08:30,482 - root - INFO - ****Opening URL****
+2022-02-06 11:08:31,052 - root - ERROR - Home page title is failed
+2022-02-06 11:08:35,266 - WDM - INFO - 
+
+2022-02-06 11:08:35,266 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 11:08:35,281 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 11:08:35,281 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 11:08:35,466 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 11:08:36,557 - root - INFO - Testing login
+2022-02-06 11:08:42,128 - root - INFO - Testing login is passed
+2022-02-06 11:09:19,668 - WDM - INFO - 
+
+2022-02-06 11:09:19,668 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 11:09:19,685 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 11:09:19,685 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 11:09:19,856 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 11:09:21,074 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 11:09:21,074 - root - INFO - ****Started Home page title test ****
+2022-02-06 11:09:21,074 - root - INFO - ****Opening URL****
+2022-02-06 11:09:22,684 - root - ERROR - Home page title is failed
+2022-02-06 11:09:22,832 - WDM - INFO - 
+
+2022-02-06 11:09:22,832 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 11:09:22,848 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 11:09:22,848 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 11:09:23,049 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 11:09:24,183 - root - INFO - Testing login
+2022-02-06 11:09:30,014 - root - ERROR - Testing login is failed
+2022-02-06 14:45:56,425 - WDM - INFO - 
+
+2022-02-06 14:45:56,437 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:45:56,449 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 14:45:56,449 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 14:45:56,821 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 14:45:58,051 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 14:45:58,051 - root - INFO - ****Started Home page title test ****
+2022-02-06 14:45:58,051 - root - INFO - ****Opening URL****
+2022-02-06 14:45:59,465 - root - INFO - **** Home page title test passed ****
+2022-02-06 14:45:59,525 - WDM - INFO - 
+
+2022-02-06 14:45:59,529 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:45:59,571 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 14:45:59,571 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 14:45:59,725 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 14:46:00,784 - root - INFO - Testing login
+2022-02-06 14:46:06,885 - root - INFO - Testing login is passed
+2022-02-06 14:46:18,317 - WDM - INFO - 
+
+2022-02-06 14:46:18,317 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:46:18,593 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 14:46:18,593 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 14:46:19,151 - WDM - INFO - There is no [win64] geckodriver for browser  in cache
+2022-02-06 14:46:19,151 - WDM - INFO - Getting latest mozilla release info for v0.30.0
+2022-02-06 14:46:19,625 - WDM - INFO - Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-win64.zip
+2022-02-06 14:46:23,512 - WDM - INFO - Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0]
+2022-02-06 14:46:29,970 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 14:46:29,970 - root - INFO - ****Started Home page title test ****
+2022-02-06 14:46:29,970 - root - INFO - ****Opening URL****
+2022-02-06 14:46:30,807 - root - INFO - **** Home page title test passed ****
+2022-02-06 14:46:31,527 - WDM - INFO - 
+
+2022-02-06 14:46:31,527 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:46:31,765 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 14:46:31,765 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 14:46:31,983 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 14:46:37,221 - root - INFO - Testing login
+2022-02-06 14:46:45,630 - root - INFO - Testing login is passed
+2022-02-06 14:53:18,484 - WDM - INFO - 
+
+2022-02-06 14:53:18,484 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:53:19,049 - WDM - INFO - There is no [win64] operadriver for browser  in cache
+2022-02-06 14:53:19,049 - WDM - INFO - Getting latest opera release info for v.97.0.4692.71
+2022-02-06 14:53:19,503 - WDM - INFO - Trying to download new driver from https://github.com/operasoftware/operachromiumdriver/releases/download/v.97.0.4692.71/operadriver_win64.zip
+2022-02-06 14:53:27,092 - WDM - INFO - Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\operadriver\win64\v.97.0.4692.71]
+2022-02-06 14:53:29,886 - WDM - INFO - 
+
+2022-02-06 14:53:29,886 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:53:30,068 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\operadriver\win64\v.97.0.4692.71\operadriver_win64/] found in cache
+2022-02-06 14:56:11,823 - WDM - INFO - 
+
+2022-02-06 14:56:11,823 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:56:12,011 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 14:56:12,011 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 14:56:12,277 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 14:56:17,495 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 14:56:17,495 - root - INFO - ****Started Home page title test ****
+2022-02-06 14:56:17,496 - root - INFO - ****Opening URL****
+2022-02-06 14:56:19,018 - root - INFO - **** Home page title test passed ****
+2022-02-06 14:56:19,499 - WDM - INFO - 
+
+2022-02-06 14:56:19,499 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:56:19,689 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 14:56:19,689 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 14:56:19,872 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 14:56:25,013 - root - INFO - Testing login
+2022-02-06 14:56:31,130 - root - ERROR - Testing login is failed
+2022-02-06 14:57:03,086 - WDM - INFO - 
+
+2022-02-06 14:57:03,086 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:57:03,291 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 14:57:03,291 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 14:57:03,503 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 14:57:08,610 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 14:57:08,610 - root - INFO - ****Started Home page title test ****
+2022-02-06 14:57:08,610 - root - INFO - ****Opening URL****
+2022-02-06 14:57:09,958 - root - INFO - **** Home page title test passed ****
+2022-02-06 14:57:10,541 - WDM - INFO - 
+
+2022-02-06 14:57:10,542 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 14:57:10,735 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 14:57:10,735 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 14:57:10,904 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 14:57:16,023 - root - INFO - Testing login
+2022-02-06 14:57:22,330 - root - INFO - Testing login is passed
+2022-02-06 15:01:14,135 - WDM - INFO - 
+
+2022-02-06 15:01:14,135 - WDM - INFO - 
+
+2022-02-06 15:01:14,135 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 15:01:14,135 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 15:01:14,153 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 15:01:14,153 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 15:01:14,153 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 15:01:14,153 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 15:01:14,464 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 15:01:14,464 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 15:01:15,741 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 15:01:15,741 - root - INFO - ****Started Home page title test ****
+2022-02-06 15:01:15,742 - root - INFO - ****Opening URL****
+2022-02-06 15:01:15,795 - root - INFO - Testing login
+2022-02-06 15:01:17,142 - root - INFO - **** Home page title test passed ****
+2022-02-06 15:01:22,601 - root - INFO - Testing login is passed
+2022-02-06 15:02:24,892 - WDM - INFO - 
+
+2022-02-06 15:02:24,892 - WDM - INFO - 
+
+2022-02-06 15:02:24,892 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 15:02:24,892 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 15:02:25,148 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 15:02:25,148 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 15:02:25,150 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 15:02:25,150 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 15:02:25,713 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 15:02:25,713 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 15:02:31,482 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 15:02:31,482 - root - INFO - ****Started Home page title test ****
+2022-02-06 15:02:31,482 - root - INFO - ****Opening URL****
+2022-02-06 15:02:31,952 - root - INFO - Testing login
+2022-02-06 15:02:32,934 - root - INFO - **** Home page title test passed ****
+2022-02-06 15:02:35,600 - root - INFO - Testing login is passed
+2022-02-06 22:22:14,837 - WDM - INFO - 
+
+2022-02-06 22:22:14,838 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 22:22:14,838 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 22:22:15,199 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 22:22:15,199 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 22:22:15,199 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 22:22:15,199 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 22:22:15,821 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 22:22:15,821 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 22:22:22,102 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 22:22:22,102 - root - INFO - ****Started Home page title test ****
+2022-02-06 22:22:22,103 - root - INFO - ****Opening URL****
+2022-02-06 22:22:22,121 - root - INFO - Testing login
+2022-02-06 22:22:23,646 - root - INFO - **** Home page title test passed ****
+2022-02-06 22:22:27,388 - root - INFO - Testing login is passed
+2022-02-06 23:05:14,055 - WDM - INFO - 
+
+2022-02-06 23:05:14,055 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:05:14,300 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 23:05:14,300 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 23:05:14,935 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 23:05:20,659 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:05:20,659 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:05:27,828 - root - INFO - **** failed ****
+2022-02-06 23:05:33,155 - root - INFO - **** passed ****
+2022-02-06 23:05:38,652 - root - INFO - **** passed ****
+2022-02-06 23:08:10,351 - WDM - INFO - 
+
+2022-02-06 23:08:10,351 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:08:10,560 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 23:08:10,560 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 23:08:11,152 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 23:08:16,272 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:08:16,272 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:08:21,284 - root - INFO - **** failed ****
+2022-02-06 23:08:24,608 - root - INFO - **** passed ****
+2022-02-06 23:08:28,983 - root - INFO - **** passed ****
+2022-02-06 23:10:25,670 - WDM - INFO - 
+
+2022-02-06 23:10:25,670 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:10:25,670 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:10:25,893 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 23:10:25,893 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 23:10:25,902 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 23:10:25,902 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 23:10:26,493 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 23:10:26,693 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 23:10:32,248 - root - INFO - Testing login
+2022-02-06 23:10:32,421 - root - INFO - *************** Test_001_Login *****************
+2022-02-06 23:10:32,421 - root - INFO - ****Started Home page title test ****
+2022-02-06 23:10:32,421 - root - INFO - ****Opening URL****
+2022-02-06 23:10:33,873 - root - INFO - **** Home page title test passed ****
+2022-02-06 23:10:36,422 - root - INFO - Testing login is passed
+2022-02-06 23:11:43,196 - WDM - INFO - 
+
+2022-02-06 23:11:43,196 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:11:43,420 - WDM - INFO - Current firefox version is 96.0
+2022-02-06 23:11:43,421 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-06 23:11:43,998 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-06 23:11:49,215 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:11:49,215 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:11:54,013 - root - INFO - **** failed ****
+2022-02-06 23:11:57,318 - root - INFO - **** passed ****
+2022-02-06 23:12:01,711 - root - INFO - **** passed ****
+2022-02-06 23:14:13,394 - WDM - INFO - 
+
+2022-02-06 23:14:13,394 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:14:13,425 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:14:13,425 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:14:13,810 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:14:15,127 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:14:15,127 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:14:25,635 - root - INFO - **** passed ****
+2022-02-06 23:14:33,258 - root - INFO - **** passed ****
+2022-02-06 23:17:17,079 - WDM - INFO - 
+
+2022-02-06 23:17:17,079 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:17:17,096 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:17:17,096 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:17:17,311 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:17:18,540 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:17:18,540 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:17:27,814 - root - INFO - **** passed ****
+2022-02-06 23:17:32,907 - root - INFO - **** passed ****
+2022-02-06 23:21:29,078 - WDM - INFO - 
+
+2022-02-06 23:21:29,078 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:21:29,100 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:21:29,100 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:21:30,002 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:21:31,052 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:21:31,052 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:21:42,413 - root - INFO - **** passed ****
+2022-02-06 23:22:19,624 - WDM - INFO - 
+
+2022-02-06 23:22:19,624 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:22:19,640 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:22:19,640 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:22:19,894 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:22:20,936 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:22:20,936 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:22:31,565 - root - INFO - **** passed ****
+2022-02-06 23:22:38,208 - root - INFO - **** passed ****
+2022-02-06 23:27:13,660 - WDM - INFO - 
+
+2022-02-06 23:27:13,660 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:27:13,676 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:27:13,676 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:27:13,992 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:27:15,161 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:27:15,176 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:27:23,086 - root - INFO - **** passed ****
+2022-02-06 23:27:27,334 - root - INFO - **** passed ****
+2022-02-06 23:29:27,775 - WDM - INFO - 
+
+2022-02-06 23:29:27,775 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:29:27,790 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:29:27,790 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:29:28,160 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:29:29,214 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:29:29,214 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:29:37,352 - root - INFO - **** passed ****
+2022-02-06 23:29:41,128 - root - INFO - **** passed ****
+2022-02-06 23:44:51,464 - WDM - INFO - 
+
+2022-02-06 23:44:51,464 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:44:51,480 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:44:51,480 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:44:51,765 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:44:52,837 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:44:52,837 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:44:58,674 - root - INFO - **** passed ****
+2022-02-06 23:45:02,058 - root - INFO - **** passed ****
+2022-02-06 23:49:02,048 - WDM - INFO - 
+
+2022-02-06 23:49:02,048 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:49:02,063 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:49:02,063 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:49:02,248 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:49:03,403 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:49:03,403 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:49:09,446 - root - INFO - **** passed ****
+2022-02-06 23:49:11,559 - root - INFO - **** passed ****
+2022-02-06 23:49:42,095 - WDM - INFO - 
+
+2022-02-06 23:49:42,096 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:49:42,116 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:49:42,116 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:49:42,293 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:49:43,382 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:49:43,382 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:49:50,394 - root - INFO - **** passed ****
+2022-02-06 23:49:52,929 - root - INFO - **** passed ****
+2022-02-06 23:52:23,491 - WDM - INFO - 
+
+2022-02-06 23:52:23,491 - WDM - INFO - ====== WebDriver manager ======
+2022-02-06 23:52:23,507 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-06 23:52:23,507 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-06 23:52:23,792 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-06 23:52:24,856 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-06 23:52:24,856 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-06 23:52:31,922 - root - INFO - **** passed ****
+2022-02-06 23:52:36,358 - root - INFO - **** passed ****
+2022-02-07 09:39:41,989 - WDM - INFO - 
+
+2022-02-07 09:39:41,993 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 09:39:42,013 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 09:39:42,013 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 09:39:42,298 - WDM - INFO - Trying to download new driver from https://chromedriver.storage.googleapis.com/97.0.4692.71/chromedriver_win32.zip
+2022-02-07 09:39:43,536 - WDM - INFO - Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71]
+2022-02-07 09:39:45,039 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-07 09:39:45,039 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-07 09:39:51,440 - root - INFO - **** passed ****
+2022-02-07 09:44:43,675 - WDM - INFO - 
+
+2022-02-07 09:44:43,675 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 09:44:43,692 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 09:44:43,692 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 09:44:44,032 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 09:44:45,108 - root - INFO - ******* Starting Test_002_DDT_Login Test **********
+2022-02-07 09:44:45,108 - root - INFO - ******* Starting Login DDT Test **********
+2022-02-07 09:44:50,506 - root - INFO - **** passed ****
+2022-02-07 09:45:09,197 - root - INFO - **** passed ****
+2022-02-07 13:27:00,233 - WDM - INFO - 
+
+2022-02-07 13:27:00,233 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 13:27:00,265 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 13:27:00,265 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 13:27:00,596 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 13:27:01,852 - root - INFO - *************** Test_001_Login *****************
+2022-02-07 13:27:01,852 - root - INFO - ****Started Home page title test ****
+2022-02-07 13:27:01,852 - root - INFO - ****Opening URL****
+2022-02-07 13:27:03,284 - root - INFO - **** Home page title test passed ****
+2022-02-07 13:27:07,374 - WDM - INFO - 
+
+2022-02-07 13:27:07,375 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 13:27:07,399 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 13:27:07,400 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 13:27:07,661 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 13:27:08,724 - root - INFO - Testing login
+2022-02-07 13:27:15,493 - root - INFO - Testing login is passed
+2022-02-07 14:42:18,954 - WDM - INFO - 
+
+2022-02-07 14:42:18,954 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 14:42:19,387 - WDM - INFO - Current firefox version is 96.0
+2022-02-07 14:42:19,387 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-07 14:42:19,988 - WDM - INFO - Getting latest mozilla release info for v0.30.0
+2022-02-07 14:42:20,605 - WDM - INFO - Trying to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-win64.zip
+2022-02-07 14:42:22,036 - WDM - INFO - Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0]
+2022-02-07 14:42:27,833 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 14:42:35,159 - root - INFO - ************* Login succesful **********
+2022-02-07 14:42:35,159 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 14:47:02,375 - WDM - INFO - 
+
+2022-02-07 14:47:02,375 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 14:47:02,581 - WDM - INFO - Current firefox version is 96.0
+2022-02-07 14:47:02,581 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-07 14:47:03,162 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-07 14:47:08,404 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 14:47:26,277 - root - INFO - ************* Login succesful **********
+2022-02-07 14:47:26,277 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 14:48:36,921 - WDM - INFO - 
+
+2022-02-07 14:48:36,921 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 14:48:37,121 - WDM - INFO - Current firefox version is 96.0
+2022-02-07 14:48:37,121 - WDM - INFO - Get LATEST geckodriver version for 96.0 firefox
+2022-02-07 14:48:38,107 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\geckodriver\win64\v0.30.0\geckodriver.exe] found in cache
+2022-02-07 14:48:43,840 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 14:48:48,943 - root - INFO - ************* Login succesful **********
+2022-02-07 14:48:48,943 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 14:51:54,249 - WDM - INFO - 
+
+2022-02-07 14:51:54,249 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 14:51:54,264 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 14:51:54,264 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 14:51:54,896 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 14:51:56,100 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 14:52:02,124 - root - INFO - ************* Login succesful **********
+2022-02-07 14:52:02,125 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 14:53:01,195 - WDM - INFO - 
+
+2022-02-07 14:53:01,199 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 14:53:01,215 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 14:53:01,215 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 14:53:01,396 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 14:53:02,577 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 14:53:06,598 - root - INFO - ************* Login succesful **********
+2022-02-07 14:53:06,598 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 14:55:12,659 - WDM - INFO - 
+
+2022-02-07 14:55:12,659 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 14:55:12,675 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 14:55:12,675 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 14:55:12,843 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 14:55:13,925 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 14:55:20,512 - root - INFO - ************* Login succesful **********
+2022-02-07 14:55:20,512 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 14:57:03,605 - WDM - INFO - 
+
+2022-02-07 14:57:03,605 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 14:57:03,623 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 14:57:03,623 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 14:57:03,938 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 14:57:04,983 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 14:57:09,816 - root - INFO - ************* Login succesful **********
+2022-02-07 14:57:09,816 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 14:58:38,665 - WDM - INFO - 
+
+2022-02-07 14:58:38,665 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 14:58:38,680 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 14:58:38,680 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 14:58:38,875 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 14:58:39,998 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 14:58:42,969 - root - INFO - ************* Login succesful **********
+2022-02-07 14:58:42,969 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:00:30,795 - WDM - INFO - 
+
+2022-02-07 15:00:30,795 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:00:30,811 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:00:30,811 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:00:30,973 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:00:32,052 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:00:35,005 - root - INFO - ************* Login succesful **********
+2022-02-07 15:00:35,005 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:01:50,955 - WDM - INFO - 
+
+2022-02-07 15:01:50,955 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:01:50,971 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:01:50,971 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:01:51,158 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:01:52,263 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:01:56,221 - root - INFO - ************* Login succesful **********
+2022-02-07 15:01:56,221 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:04:41,915 - WDM - INFO - 
+
+2022-02-07 15:04:41,915 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:04:41,931 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:04:41,931 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:04:42,218 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:04:43,434 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:04:55,718 - root - INFO - ************* Login succesful **********
+2022-02-07 15:04:55,718 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:27:20,512 - WDM - INFO - 
+
+2022-02-07 15:27:20,512 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:27:20,536 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:27:20,537 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:27:20,849 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:27:21,905 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:27:25,996 - root - INFO - ************* Login succesful **********
+2022-02-07 15:27:25,996 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:28:11,484 - WDM - INFO - 
+
+2022-02-07 15:28:11,484 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:28:11,516 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:28:11,516 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:28:11,695 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:28:12,815 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:28:16,874 - root - INFO - ************* Login succesful **********
+2022-02-07 15:28:16,874 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:32:14,290 - WDM - INFO - 
+
+2022-02-07 15:32:14,290 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:32:14,305 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:32:14,305 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:32:14,495 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:32:15,600 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:32:23,180 - root - INFO - ************* Login succesful **********
+2022-02-07 15:32:23,180 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:37:02,993 - WDM - INFO - 
+
+2022-02-07 15:37:02,993 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:37:03,011 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:37:03,011 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:37:03,330 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:37:04,417 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:37:12,137 - root - INFO - ************* Login succesful **********
+2022-02-07 15:37:12,137 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:46:50,747 - WDM - INFO - 
+
+2022-02-07 15:46:50,747 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:46:50,765 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:46:50,765 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:46:51,071 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:46:52,239 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:47:01,952 - root - INFO - ************* Login succesful **********
+2022-02-07 15:47:01,952 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 15:48:01,078 - WDM - INFO - 
+
+2022-02-07 15:48:01,078 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 15:48:01,094 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 15:48:01,094 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 15:48:01,642 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 15:48:02,697 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 15:48:18,055 - root - INFO - ************* Login succesful **********
+2022-02-07 15:48:18,055 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 16:17:38,148 - WDM - INFO - 
+
+2022-02-07 16:17:38,163 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 16:17:38,183 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 16:17:38,183 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 16:17:38,458 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 16:17:39,506 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 16:17:46,168 - root - INFO - ************* Login succesful **********
+2022-02-07 16:17:46,168 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 16:22:47,566 - WDM - INFO - 
+
+2022-02-07 16:22:47,566 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 16:22:47,592 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 16:22:47,592 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 16:22:48,009 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 16:22:49,128 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 16:22:56,903 - root - INFO - ************* Login succesful **********
+2022-02-07 16:22:56,903 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 16:32:41,735 - WDM - INFO - 
+
+2022-02-07 16:32:41,735 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 16:32:41,751 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 16:32:41,751 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 16:32:42,304 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 16:32:43,465 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 16:32:48,630 - root - INFO - ************* Login succesful **********
+2022-02-07 16:32:48,630 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 16:39:11,892 - WDM - INFO - 
+
+2022-02-07 16:39:11,892 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 16:39:11,913 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 16:39:11,913 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 16:39:12,291 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 16:39:13,455 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 16:39:19,660 - root - INFO - ************* Login succesful **********
+2022-02-07 16:39:19,660 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 17:10:34,674 - WDM - INFO - 
+
+2022-02-07 17:10:34,674 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 17:10:34,690 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 17:10:34,690 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 17:10:35,054 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 17:10:36,342 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 17:10:42,993 - root - INFO - ************* Login succesful **********
+2022-02-07 17:10:42,993 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 17:28:23,178 - WDM - INFO - 
+
+2022-02-07 17:28:23,178 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 17:28:23,194 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 17:28:23,194 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 17:28:23,495 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 17:28:24,634 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 17:28:30,524 - root - INFO - ************* Login succesful **********
+2022-02-07 17:28:30,524 - root - INFO - ******* Starting Add Customer Test **********
+2022-02-07 17:54:11,336 - WDM - INFO - 
+
+2022-02-07 17:54:11,336 - WDM - INFO - ====== WebDriver manager ======
+2022-02-07 17:54:11,361 - WDM - INFO - Current google-chrome version is 97.0.4692
+2022-02-07 17:54:11,361 - WDM - INFO - Get LATEST chromedriver version for 97.0.4692 google-chrome
+2022-02-07 17:54:11,656 - WDM - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win32\97.0.4692.71\chromedriver.exe] found in cache
+2022-02-07 17:54:12,842 - root - INFO - ************* Test_003_AddCustomer **********
+2022-02-07 17:54:19,046 - root - INFO - ************* Login succesful **********
+2022-02-07 17:54:19,046 - root - INFO - ******* Starting Add Customer Test **********
